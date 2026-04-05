@@ -1,0 +1,27 @@
+PUBG TURNUVA YÖNETİCİSİ - KULLANIM KILAVUZU (MANUEL VERSİYON)
+
+=== KURULUM ===
+1. `dist` klasöründeki `pubg_manager_manual.exe` dosyasını çalıştırın.
+
+=== NASIL KULLANILIR? ===
+
+ADIM 1: TURNUVA KURULUMU (Setup)
+- İlk ekranda "Create New Tournament" butonuna basın.
+- **Maç Sayısı:** Kaç maç oynanacağını girin (Örn: 4).
+- **Takım İsimleri:** Turnuvaya katılacak 16 takımın ismini buraya tek tek yazın.
+- "Start Tournament" diyerek devam edin.
+
+ADIM 2: MAÇ SONUÇLARINI GİRME
+- Karşınıza "Result Entry: Match 1" ekranı gelecektir.
+- Burada 1'den 16'ya kadar SIRALAMA (Rank) listesi vardır.
+- **Select Team:** O sırada (Rank) hangi takım olduğunu listeden seçin.
+- **Kills:** O takımın kaç kill aldığını yanındaki kutuya yazın.
+- Tüm sıralamayı doldurduktan sonra "Save & Next" butonuna basın.
+- Sonraki maçlar için aynı işlemi tekrarlayın.
+
+ADIM 3: SONUÇLAR
+- Tüm maçlar bitince "FINAL LEADERBOARD" ekranı gelir.
+- Puanlar otomatik hesaplanır (Sıralama Puanı + Kill Puanı).
+- "Export CSV" ile Excel'e aktarabilirsiniz.
+
+İyi oyunlar!
